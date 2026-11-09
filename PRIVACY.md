@@ -14,7 +14,7 @@ Utilix ("the app") is a collection of offline utility tools. This policy explain
 
 - **Settings** (theme, language, favorite and recently used tools) are stored locally on your device and removed when you uninstall the app.
 - **Files you choose** (images, PDFs) are opened through the system file picker only when you select them. They are processed on your device. Results are saved or shared only when you press Save / Share.
-- **Camera permission** may be requested only to switch on the flashlight. The app does not take photos or record video.
+- **Permissions:** the app does not request any special permissions. The flashlight tool switches on the device's torch only; the app does not take photos or record video or audio.
 - **Motion sensors** are used by the spirit level tool and their readings are not stored or sent anywhere.
 
 ## Children
